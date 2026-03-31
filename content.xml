@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260331015959OZGQX2</value>
+    <value>20260331024050SL9IDK</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260331015959S6VD37</value>
+    <value>20260331024050NCBOI2</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1774903664996</value>
+    <value>1774917583180</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -89,7 +89,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mndntcu8-4kncu0ufu</odePageId>
+  <odePageId>page-mndw3o6t-s4bkdbklt</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>EL CICLO SIN FIN</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -125,10 +125,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mndntcu8-4kncu0ufu</odePageId>
+      <odePageId>page-mndw3o6t-s4bkdbklt</odePageId>
       <odeBlockId>block-1774825314746-aiwrrcu0k</odeBlockId>
       <blockName>Descripción de la Situación de Aprendizaje (SdA)</blockName>
-      <iconName>think</iconName>
+      <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -154,7 +154,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndntcu8-4kncu0ufu</odePageId>
+          <odePageId>page-mndw3o6t-s4bkdbklt</odePageId>
           <odeBlockId>block-1774825314746-aiwrrcu0k</odeBlockId>
           <odeIdeviceId>idevice-1774825314743-f89kuyc9d</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -182,10 +182,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mndntcu8-4kncu0ufu</odePageId>
+      <odePageId>page-mndw3o6t-s4bkdbklt</odePageId>
       <odeBlockId>block-1774825991560-es7j8mvpc</odeBlockId>
       <blockName>Información SdA</blockName>
-      <iconName>present</iconName>
+      <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -211,21 +211,20 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndntcu8-4kncu0ufu</odePageId>
+          <odePageId>page-mndw3o6t-s4bkdbklt</odePageId>
           <odeBlockId>block-1774825991560-es7j8mvpc</odeBlockId>
           <odeIdeviceId>idevice-1774825991558-g2awxsg5b</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Va dirigida al alumnado de <strong>3º ESO del Programa de Diversificación Curricular</strong> (PDC). Este <strong>grupo aula</strong> lo componen tres alumnas y ocho alumnos, un total de <strong>once estudiantes</strong>.</p>
 <p><img src="https://img.freepik.com/vector-premium/grupo-adolescentes-estudiantes-secundaria-silueta_690577-1558.jpg?w=2000" alt="Grupo de adolescentes estudiantes de secundaria silueta | Vector Premium" class="" aria-label="Grupo de adolescentes estudiantes de secundaria silueta | Vector Premium" role="button" data-bm="6" width="144" height="144" style="display: block; margin-left: auto; margin-right: auto;" tabindex="0" /></p>
-<p>La SdA se sitúa dentro del <strong>Ámbito Científico-Tecnológico, </strong>en concreto, en la materia de <strong>Biología y Geología. </strong></p>
-<p>Se relaciona con materias como Geografía e Historia, Física y Química, Tecnología y Digitalización y Matemáticas.</p>
+<p>La SdA se sitúa dentro del <strong>Ámbito Científico-Tecnológico, </strong>en concreto, en la materia de <strong>Biología y Geología </strong>y se relaciona con materias como Geografía e Historia, Física y Química, Tecnología y Digitalización y Matemáticas.</p>
 <p style="text-align: center;"><img src="https://img.freepik.com/vector-premium/ilustracion-biologia_611881-429.jpg" width="161" height="161" /></p>
 <p style="text-align: justify;">Ocupa un total de <strong>24 sesiones</strong> que se desarrollarán a lo largo del <strong>tercer trimestre, </strong>extendiéndose aproximadamente dos meses, ya que el Ámbito Científico-Tecnológico tiene un total de ocho horas semanales para repartir con el resto de materias que conforman el ámbito.<img src="https://img.freepik.com/free-vector/illustration-calendar-vector-icon_53876-26546.jpg" alt="Calendario dibujo Vectors & Illustrations for Free Download | Freepik" class="" aria-label="Calendario dibujo Vectors & Illustrations for Free Download | Freepik" role="button" data-bm="6" width="121" height="121" style="display: block; margin-left: auto; margin-right: auto;" tabindex="0" /></p>
 <p style="text-align: justify;">En cuanto a la <strong>organización espacial del aula</strong>, las mesas se encuentran de manera <strong>horizontal-grupal,</strong> ya que es una aula pequeña rectangular, conformada por 6 mesas rectangulares, en las que entran hasta 2 alumnos por mesa. Se sitúan tres mesas unidas en la parte de atrás y otras tres, de igual manera, en la parte delantera. Esta organización permite <strong>agrupamientos diversos</strong>: grupos heterogéneos, gran grupo, parejas y trabajo individual. </p>
 <p><img src="https://as1.ftcdn.net/v2/jpg/06/36/68/70/1000_F_636687058_uzul9Pt1OJXTyIoxx1K5dObNT65EBr5n.jpg" alt="clase de instituto con mesas con libros y sillas iluminada, con pizarra ..." class="" aria-label="clase de instituto con mesas con libros y sillas iluminada, con pizarra ..." role="button" data-bm="6" width="228" height="128" style="display: block; margin-left: auto; margin-right: auto;" tabindex="0" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774825991558-g2awxsg5b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Va dirigida al alumnado de <strong>3º ESO del Programa de Diversificación Curricular</strong> (PDC). Este <strong>grupo aula</strong> lo componen tres alumnas y ocho alumnos, un total de <strong>once estudiantes</strong>.</p>\n<p><img src=\"https://img.freepik.com/vector-premium/grupo-adolescentes-estudiantes-secundaria-silueta_690577-1558.jpg?w=2000\" alt=\"Grupo de adolescentes estudiantes de secundaria silueta | Vector Premium\" class=\"\" aria-label=\"Grupo de adolescentes estudiantes de secundaria silueta | Vector Premium\" role=\"button\" data-bm=\"6\" width=\"144\" height=\"144\" style=\"display: block; margin-left: auto; margin-right: auto;\" tabindex=\"0\" /></p>\n<p>La SdA se sitúa dentro del <strong>Ámbito Científico-Tecnológico, </strong>en concreto, en la materia de <strong>Biología y Geología. </strong></p>\n<p>Se relaciona con materias como Geografía e Historia, Física y Química, Tecnología y Digitalización y Matemáticas.</p>\n<p style=\"text-align: center;\"><img src=\"https://img.freepik.com/vector-premium/ilustracion-biologia_611881-429.jpg\" width=\"161\" height=\"161\" /></p>\n<p style=\"text-align: justify;\">Ocupa un total de <strong>24 sesiones</strong> que se desarrollarán a lo largo del <strong>tercer trimestre, </strong>extendiéndose aproximadamente dos meses, ya que el Ámbito Científico-Tecnológico tiene un total de ocho horas semanales para repartir con el resto de materias que conforman el ámbito.<img src=\"https://img.freepik.com/free-vector/illustration-calendar-vector-icon_53876-26546.jpg\" alt=\"Calendario dibujo Vectors & Illustrations for Free Download | Freepik\" class=\"\" aria-label=\"Calendario dibujo Vectors & Illustrations for Free Download | Freepik\" role=\"button\" data-bm=\"6\" width=\"121\" height=\"121\" style=\"display: block; margin-left: auto; margin-right: auto;\" tabindex=\"0\" /></p>\n<p style=\"text-align: justify;\">En cuanto a la <strong>organización espacial del aula</strong>, las mesas se encuentran de manera <strong>horizontal-grupal,</strong> ya que es una aula pequeña rectangular, conformada por 6 mesas rectangulares, en las que entran hasta 2 alumnos por mesa. Se sitúan tres mesas unidas en la parte de atrás y otras tres, de igual manera, en la parte delantera. Esta organización permite <strong>agrupamientos diversos</strong>: grupos heterogéneos, gran grupo, parejas y trabajo individual. </p>\n<p><img src=\"https://as1.ftcdn.net/v2/jpg/06/36/68/70/1000_F_636687058_uzul9Pt1OJXTyIoxx1K5dObNT65EBr5n.jpg\" alt=\"clase de instituto con mesas con libros y sillas iluminada, con pizarra ...\" class=\"\" aria-label=\"clase de instituto con mesas con libros y sillas iluminada, con pizarra ...\" role=\"button\" data-bm=\"6\" width=\"228\" height=\"128\" style=\"display: block; margin-left: auto; margin-right: auto;\" tabindex=\"0\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774825991558-g2awxsg5b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Va dirigida al alumnado de <strong>3º ESO del Programa de Diversificación Curricular</strong> (PDC). Este <strong>grupo aula</strong> lo componen tres alumnas y ocho alumnos, un total de <strong>once estudiantes</strong>.</p>\n<p><img src=\"https://img.freepik.com/vector-premium/grupo-adolescentes-estudiantes-secundaria-silueta_690577-1558.jpg?w=2000\" alt=\"Grupo de adolescentes estudiantes de secundaria silueta | Vector Premium\" class=\"\" aria-label=\"Grupo de adolescentes estudiantes de secundaria silueta | Vector Premium\" role=\"button\" data-bm=\"6\" width=\"144\" height=\"144\" style=\"display: block; margin-left: auto; margin-right: auto;\" tabindex=\"0\" /></p>\n<p>La SdA se sitúa dentro del <strong>Ámbito Científico-Tecnológico, </strong>en concreto, en la materia de <strong>Biología y Geología </strong>y se relaciona con materias como Geografía e Historia, Física y Química, Tecnología y Digitalización y Matemáticas.</p>\n<p style=\"text-align: center;\"><img src=\"https://img.freepik.com/vector-premium/ilustracion-biologia_611881-429.jpg\" width=\"161\" height=\"161\" /></p>\n<p style=\"text-align: justify;\">Ocupa un total de <strong>24 sesiones</strong> que se desarrollarán a lo largo del <strong>tercer trimestre, </strong>extendiéndose aproximadamente dos meses, ya que el Ámbito Científico-Tecnológico tiene un total de ocho horas semanales para repartir con el resto de materias que conforman el ámbito.<img src=\"https://img.freepik.com/free-vector/illustration-calendar-vector-icon_53876-26546.jpg\" alt=\"Calendario dibujo Vectors & Illustrations for Free Download | Freepik\" class=\"\" aria-label=\"Calendario dibujo Vectors & Illustrations for Free Download | Freepik\" role=\"button\" data-bm=\"6\" width=\"121\" height=\"121\" style=\"display: block; margin-left: auto; margin-right: auto;\" tabindex=\"0\" /></p>\n<p style=\"text-align: justify;\">En cuanto a la <strong>organización espacial del aula</strong>, las mesas se encuentran de manera <strong>horizontal-grupal,</strong> ya que es una aula pequeña rectangular, conformada por 6 mesas rectangulares, en las que entran hasta 2 alumnos por mesa. Se sitúan tres mesas unidas en la parte de atrás y otras tres, de igual manera, en la parte delantera. Esta organización permite <strong>agrupamientos diversos</strong>: grupos heterogéneos, gran grupo, parejas y trabajo individual. </p>\n<p><img src=\"https://as1.ftcdn.net/v2/jpg/06/36/68/70/1000_F_636687058_uzul9Pt1OJXTyIoxx1K5dObNT65EBr5n.jpg\" alt=\"clase de instituto con mesas con libros y sillas iluminada, con pizarra ...\" class=\"\" aria-label=\"clase de instituto con mesas con libros y sillas iluminada, con pizarra ...\" role=\"button\" data-bm=\"6\" width=\"228\" height=\"128\" style=\"display: block; margin-left: auto; margin-right: auto;\" tabindex=\"0\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -245,10 +244,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mndntcu8-4kncu0ufu</odePageId>
+      <odePageId>page-mndw3o6t-s4bkdbklt</odePageId>
       <odeBlockId>block-1774826283138-mlgwh7unn</odeBlockId>
       <blockName>Productos y herramientas tecnológicas</blockName>
-      <iconName>letters</iconName>
+      <iconName></iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -274,7 +273,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndntcu8-4kncu0ufu</odePageId>
+          <odePageId>page-mndw3o6t-s4bkdbklt</odePageId>
           <odeBlockId>block-1774826283138-mlgwh7unn</odeBlockId>
           <odeIdeviceId>idevice-1774872900940-l27yhiepy</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -291,13 +290,13 @@
 <ul style="list-style-type: circle;">
 <li style="text-align: justify;">Microsoft Teams</li>
 <li style="text-align: justify;">Microsoft Office</li>
-<li style="text-align: justify;">YouTube-Canal Bio[ESO]sfera<img class="mimg rms_img" height="143" width="143" alt="Resultado de imagen de dibujo herramientas tecnológicas" id="emb6418BEDA5" src="{{context_path}}/content/resources/blobid0.webp" data-thhnrepbd="1" loading="lazy" data-bm="181" style="float: right;" /></li>
+<li style="text-align: justify;">YouTube-Canal Bio[ESO]sfera</li>
 <li style="text-align: justify;">Genially</li>
 <li style="text-align: justify;">Canva</li>
 <li style="text-align: justify;">App IGN Terremotos</li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774872900940-l27yhiepy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Los <strong>productos </strong>que deberá crear el alumnado a lo largo de las diferentes actividades propuestas en la SdA \"El ciclo sin fin\" son:</p>\n<ul style=\"list-style-type: circle; text-align: justify;\">\n<li>Construcción de una <strong>maqueta </strong>de un volcán.</li>\n<li><strong>Infografía </strong>sobre dos paisajes de Asturias con diferente modelado del relieve.</li>\n<li><strong>Investigación experimental</strong>: modificando los factores que afectan  a un ecosistema se plantan semillas de crecimiento rápido para ver cómo evolucionan en función del medio en que se encuentren. La recogida de datos se realizará a lo largo de 15 días. Finalmente, se realizará un <strong>informe </strong>y <strong>presentación </strong>en el aula.</li>\n<li><strong>Podcast </strong>\"Las grandes científicas de la historia\" edición Marie Tharp.</li>\n</ul>\n<p style=\"text-align: center;\">     <img src=\"https://www.shutterstock.com/image-illustration/doodle-illustration-microphone-inscription-podcast-260nw-2220664819.jpg\" alt=\"eslogan tipográfico con auriculares de dibujos: vector de stock (libre ...\" class=\"\" aria-label=\"eslogan tipográfico con auriculares de dibujos: vector de stock (libre ...\" role=\"button\" data-bm=\"11\" width=\"135\" height=\"145\" tabindex=\"0\" /></p>\n<p style=\"text-align: justify;\">Las h<strong>erramientas tecnológicas</strong> utilizadas a lo largo de esta SdA son: </p>\n<ul style=\"list-style-type: circle;\">\n<li style=\"text-align: justify;\">Microsoft Teams</li>\n<li style=\"text-align: justify;\">Microsoft Office</li>\n<li style=\"text-align: justify;\">YouTube-Canal Bio[ESO]sfera<img class=\"mimg rms_img\" height=\"143\" width=\"143\" alt=\"Resultado de imagen de dibujo herramientas tecnológicas\" id=\"emb6418BEDA5\" src=\"{{context_path}}/content/resources/blobid0.webp\" data-thhnrepbd=\"1\" loading=\"lazy\" data-bm=\"181\" style=\"float: right;\" /></li>\n<li style=\"text-align: justify;\">Genially</li>\n<li style=\"text-align: justify;\">Canva</li>\n<li style=\"text-align: justify;\">App IGN Terremotos</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774872900940-l27yhiepy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Los <strong>productos </strong>que deberá crear el alumnado a lo largo de las diferentes actividades propuestas en la SdA \"El ciclo sin fin\" son:</p>\n<ul style=\"list-style-type: circle; text-align: justify;\">\n<li>Construcción de una <strong>maqueta </strong>de un volcán.</li>\n<li><strong>Infografía </strong>sobre dos paisajes de Asturias con diferente modelado del relieve.</li>\n<li><strong>Investigación experimental</strong>: modificando los factores que afectan  a un ecosistema se plantan semillas de crecimiento rápido para ver cómo evolucionan en función del medio en que se encuentren. La recogida de datos se realizará a lo largo de 15 días. Finalmente, se realizará un <strong>informe </strong>y <strong>presentación </strong>en el aula.</li>\n<li><strong>Podcast </strong>\"Las grandes científicas de la historia\" edición Marie Tharp.</li>\n</ul>\n<p style=\"text-align: center;\">     <img src=\"https://www.shutterstock.com/image-illustration/doodle-illustration-microphone-inscription-podcast-260nw-2220664819.jpg\" alt=\"eslogan tipográfico con auriculares de dibujos: vector de stock (libre ...\" class=\"\" aria-label=\"eslogan tipográfico con auriculares de dibujos: vector de stock (libre ...\" role=\"button\" data-bm=\"11\" width=\"135\" height=\"145\" tabindex=\"0\" /></p>\n<p style=\"text-align: justify;\">Las h<strong>erramientas tecnológicas</strong> utilizadas a lo largo de esta SdA son: </p>\n<ul style=\"list-style-type: circle;\">\n<li style=\"text-align: justify;\">Microsoft Teams</li>\n<li style=\"text-align: justify;\">Microsoft Office</li>\n<li style=\"text-align: justify;\">YouTube-Canal Bio[ESO]sfera</li>\n<li style=\"text-align: justify;\">Genially</li>\n<li style=\"text-align: justify;\">Canva</li>\n<li style=\"text-align: justify;\">App IGN Terremotos</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -319,8 +318,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mndntcuc-yvgxuabrb</odePageId>
-  <odeParentPageId>page-mndntcu8-4kncu0ufu</odeParentPageId>
+  <odePageId>page-mndw3o6v-lyazy40zv</odePageId>
+  <odeParentPageId>page-mndw3o6t-s4bkdbklt</odeParentPageId>
   <pageName>1. Intención educativa</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -355,7 +354,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mndntcuc-yvgxuabrb</odePageId>
+      <odePageId>page-mndw3o6v-lyazy40zv</odePageId>
       <odeBlockId>block-1774878155613-rxb9fy9n0</odeBlockId>
       <blockName>Justificación</blockName>
       <iconName>draw</iconName>
@@ -384,7 +383,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndntcuc-yvgxuabrb</odePageId>
+          <odePageId>page-mndw3o6v-lyazy40zv</odePageId>
           <odeBlockId>block-1774878155613-rxb9fy9n0</odeBlockId>
           <odeIdeviceId>idevice-1774878155610-jn2mg6vjj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -420,7 +419,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mndntcuc-yvgxuabrb</odePageId>
+      <odePageId>page-mndw3o6v-lyazy40zv</odePageId>
       <odeBlockId>block-1774878642853-x9ctyg6qq</odeBlockId>
       <blockName>Objetivos de Desarrollo Sostenible y Agenda 2030</blockName>
       <iconName>roadmap</iconName>
@@ -449,7 +448,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndntcuc-yvgxuabrb</odePageId>
+          <odePageId>page-mndw3o6v-lyazy40zv</odePageId>
           <odeBlockId>block-1774878642853-x9ctyg6qq</odeBlockId>
           <odeIdeviceId>idevice-1774878642849-5jeyuk2g5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -493,7 +492,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mndntcuc-yvgxuabrb</odePageId>
+      <odePageId>page-mndw3o6v-lyazy40zv</odePageId>
       <odeBlockId>block-1774878683331-7gc5y83tf</odeBlockId>
       <blockName>Intención educativa</blockName>
       <iconName>download</iconName>
@@ -522,7 +521,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndntcuc-yvgxuabrb</odePageId>
+          <odePageId>page-mndw3o6v-lyazy40zv</odePageId>
           <odeBlockId>block-1774878683331-7gc5y83tf</odeBlockId>
           <odeIdeviceId>idevice-1774878683331-tyvfeadrl</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -552,8 +551,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mndntcud-0vki6n9u4</odePageId>
-  <odeParentPageId>page-mndntcu8-4kncu0ufu</odeParentPageId>
+  <odePageId>page-mndw3o6w-arzil4joc</odePageId>
+  <odeParentPageId>page-mndw3o6t-s4bkdbklt</odeParentPageId>
   <pageName>2. Elementos curriculares</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -588,7 +587,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mndntcud-0vki6n9u4</odePageId>
+      <odePageId>page-mndw3o6w-arzil4joc</odePageId>
       <odeBlockId>block-1774904205466-ok7eo3dxk</odeBlockId>
       <blockName>Competencias Clave</blockName>
       <iconName>pieces</iconName>
@@ -617,7 +616,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndntcud-0vki6n9u4</odePageId>
+          <odePageId>page-mndw3o6w-arzil4joc</odePageId>
           <odeBlockId>block-1774904205466-ok7eo3dxk</odeBlockId>
           <odeIdeviceId>idevice-1774904205463-9yds2q2mn</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -636,12 +635,24 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1774904205463-9yds2q2mn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Con el fin de completar el <strong>perfil de salida</strong> que se le requiere al alumnado a final de la etapa educativa, este debe adquirir y desarrollar las <strong>competencias clave</strong> marcadas por <strong>Recomendación del Consejo de la Unión Europea.</strong> Son un total de <strong>ocho </strong>y cada una de ellas está asociada con unos <strong>descriptores operativos</strong>, que junto con los objetivos de etapa están a su vez relacionadas con competencias específicas de cada área, ámbito o materia.</p>\n<p style=\"text-align: justify;\">El Real Decreto 217/2022 establece las enseñanzas mínimas que garantizan la adquisición de las competencias clave, necesarias para lograr alcanzar el perfil de salida, las cuales, carecen de jerarquía y se formalizan con los aprendizajes de las distintas áreas.</p>\n<p style=\"text-align: justify;\">El perfil de salida del alumnado al finalizar la ESO debe tener carácter transversal tanto en el aprendizaje como en la adquisición de competencias clave y es único para todo el territorio español.</p>\n<p style=\"text-align: justify;\">Las ocho competencias clave son: <strong>Competencia en Comunicación Lingüística</strong> (CCL), <strong>Competencia Plurilingüe</strong> (CP), <strong>Competencia Matemática y Competencia en Ciencia, Tecnología e Ingeniería</strong> (STEM), <strong>Competencia Digital</strong> (CP), <strong>Competencia Personal, Social y Aprender a Aprender</strong> (CPSAA), <strong>Competencia Ciudadana</strong> (CC), <strong>Competencia Emprendedora</strong> (CE) y <strong>Competencia en Conciencia y Expresiones Culturales </strong>(CCEC). A lo largo de esta SdA se van a trabajar en mayor medida las siguientes competencias:</p>\n<ol>\n<li style=\"text-align: justify;\"><strong> Competencia Comunicación Lingüística (CCL) </strong><br />“La Competencia de Comunicación Lingüística supone interactuar de forma oral, escrita, signada o multimodal de manera coherente y adecuada en diferentes ámbitos y contextos y con diferentes 4 <br />propósitos comunicativos.” según el Currículo LOMLOE del Principado de Asturias. Sus descriptores operativos son 5, aunque a lo largo de esta SdA se trabajarán: CCL1, CCL2, CCL3 y CCL5. <br />Esta unidad trabajará la CCL con la lectura de textos científicos, elaboración de textos escritos, destacando el papel de la mujer en la ciencia con la elaboración de un podcast y la investigación experimental.</li>\n<li style=\"text-align: justify;\"><strong>Competencia Matemática y Competencia en Ciencia, Tecnología e Ingeniería (STEM) </strong><br />“La Competencia Matemática y Competencia en Ciencia, Tecnología e Ingeniería entraña la comprensión del mundo utilizando métodos científicos, el pensamiento y representación <br />matemáticos, la tecnología y los métodos de la ingeniería para transformar el entorno de forma comprometida, responsable y sostenible” según el Currículo LOMLOE del Principado de Asturias. <br />Los descriptores operativos de la STEM son: STEM 1, STEM 2, STEM 3, STEM 4, STEM 5 y todos ellos se verán implicados a lo largo de la SdA, cabe destacar el uso del laboratorio, la salida de campo, uso de mapas cartográficos, la investigación experimental.</li>\n<li style=\"text-align: justify;\"><strong>Competencia Digital (CD) </strong><br />“La Competencia Digital implica el uso seguro, saludable, sostenible, crítico y responsable de las tecnologías digitales para el aprendizaje, para el trabajo y para la participación en la sociedad, así como la interacción con estas” según el Currículo LOMLOE del Principado de Asturias. Tiene asociados los descriptores operativos CD 1, CD 2, CD 3 Y CD 4. <br />El alumnado hará diferentes búsquedas de información en diversas fuentes digitales, para completar la investigación de diferentes tareas que se les propondrán, también se utilizarán <br />programas digitales para crear contenido como Genially, Canva, Power Point...etc.; y la creación de un programa de podcast  sobre el papel de la mujer en la ciencia.</li>\n<li style=\"text-align: justify;\"><strong>Competencia Personal, Social y de Aprender a Aprender (CPSAA)</strong> <br />“La Competencia Personal, Social y de Aprender a Aprender implica la capacidad de reflexionar para autoconocerse, aceptarse y promover un crecimiento personal constante; gestionar el tiempo y la información eficazmente; colaborar con el resto de las personas de forma constructiva; mantener la resiliencia; y gestionar el aprendizaje a lo largo de la vida” según el Currículo LOMLOE  del Principado de Asturias. Sus descriptores operativos son: CPSAA 1, CPSAA 2, CPSAA 3, CPSAA 4 y CPSAA 5. <br />La manera en que se trabajará esta competencia, será a partir del trabajo en parejas, equipos heterogéneos y gran grupo en varios <br />momentos del total del número de sesiones asignadas, así como, fomentando el aprendizaje autónomo de carácter reflexivo, en el que los alumnos serán partícipes de la mejora en su aprendizaje a través de la selección de la información e investigación y aprendiendo de los errores. Despertar la curiosidad por la ciencia será clave en este aprendizaje. </li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mndntcud-0vki6n9u4</odePageId>
+      <odePageId>page-mndw3o6w-arzil4joc</odePageId>
       <odeBlockId>block-1774905217759-oo7wkvopy</odeBlockId>
       <blockName>Competencias Específicas</blockName>
       <iconName>diary_alt</iconName>
@@ -670,7 +681,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndntcud-0vki6n9u4</odePageId>
+          <odePageId>page-mndw3o6w-arzil4joc</odePageId>
           <odeBlockId>block-1774905217759-oo7wkvopy</odeBlockId>
           <odeIdeviceId>idevice-1774905217756-fc2un451b</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -798,12 +809,24 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1774905217756-fc2un451b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El Real Decreto 217/2022 relaciona y asocia todos los elementos curriculares. Estos estarán relacionados entre sí, tanto los saberes básicos que permitirán trabajar una serie de criterios de evaluación como con las competencias específicas que se conectarán a través de unos descriptores operativos con las competencias clave. La siguiente tabla muestra todas aquellas competencias específicas, criterios de evaluación y descriptores operativos que se emplearán en la SdA.</p>\n<table border=\"1\" style=\"width: 99.9559%; height: 1286.53px; background-color: #c2e0f4; border-style: solid;\">\n<tbody>\n<tr style=\"height: 70.5833px;\">\n<td style=\"width: 99.8988%; text-align: center; height: 70.5833px;\">\n<h4><strong>COMPETENCIA ESPECÍFICA, criterios de evaluación y descriptores operativos.</strong></h4>\n</td>\n</tr>\n<tr style=\"height: 124.083px;\">\n<td style=\"width: 99.8988%; text-align: justify; height: 124.083px;\"><strong>1. Interpretar y transmitir información y datos científicos argumentando sobre ellos y utilizando diferentes formatos para analizar conceptos y procesos de las ciencias biológicas y geológicas.</strong></td>\n</tr>\n<tr style=\"height: 213.681px;\">\n<td style=\"width: 99.8988%; height: 213.681px;\">\n<p><strong>1.1 </strong>Analizar conceptos y procesos biológicos y geológicos, interpretando información en diferentes formatos (textos, imágenes, modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos, páginas web, etc.) manteniendo una actitud crítica y obteniendo conclusiones fundamentadas.</p>\n<p>Descriptores operativos<strong>: CCL2, STEM2, STEM4 y CD2</strong></p>\n</td>\n</tr>\n<tr style=\"height: 242.479px;\">\n<td style=\"width: 99.8988%; height: 242.479px;\">\n<p style=\"text-align: justify;\"><strong>1.2 </strong>Facilitar la comprensión y análisis de información sobre procesos biológicos y geológicos transmitiéndola de forma clara y utilizando la terminología y los formatos adecuados (imágenes, modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos, contenidos digitales, etc.), exponiendo argumentos fundamentados, respetuosos y flexibles.</p>\n<p style=\"text-align: justify;\">Descriptores operativos<strong>: CCL1, CCL5, STEM4 y CD3.</strong></p>\n</td>\n</tr>\n<tr style=\"height: 242.479px;\">\n<td style=\"width: 99.8988%; height: 242.479px; text-align: justify;\">\n<p><strong>1.3 </strong>Analizar y explicar fenómenos biológicos y geológicos representándolos mediante modelos y diagramas, utilizando, cuando sea necesario, los pasos del método científico o del diseño de ingeniería (identificación del problema, exploración, diseño, creación, evaluación y mejora).</p>\n<p>Descriptores operativos:<strong> CCL2, CCL5, STEM3, STEM4, CE3 y CCEC4.</strong></p>\n</td>\n</tr>\n<tr style=\"height: 124.083px;\">\n<td style=\"width: 99.8988%; height: 124.083px; text-align: justify;\"><strong>2. Identificar, localizar, y seleccionar información, contrastando su veracidad, organizándola y evaluándola críticamente para resolver preguntas relacionadas con las ciencias biológicas y geológicas.</strong></td>\n</tr>\n<tr style=\"height: 37.6875px;\">\n<td style=\"width: 99.8988%; height: 37.6875px;\">\n<p style=\"text-align: justify;\"><strong>2.3</strong> Valorar la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella con independencia de su etnia, sexo o cultura, destacando y reconociendo el papel de las mujeres científicas y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución.</p>\n<p>Descriptores operativos: <strong>STEM4 y CD5.</strong></p>\n</td>\n</tr>\n<tr style=\"height: 37.6875px;\">\n<td style=\"width: 99.8988%; height: 37.6875px; text-align: justify;\"><strong>3. Planificar y desarrollar proyectos de investigación, siguiendo los pasos de las metodologías científicas y cooperando cuando sea necesario para indagar en aspectos relacionados con las ciencias geológicas y biológicas.</strong></td>\n</tr>\n<tr>\n<td style=\"width: 99.8988%; text-align: justify;\">\n<p style=\"text-align: justify;\"><strong>3.1</strong> Plantear preguntas e hipótesis e intentar realizar predicciones sobre fenómenos biológicos o geológicos que puedan ser respondidas o contrastadas usando métodos científicos.</p>\n<p>Descriptores operativos: <strong>CCL1, STEM2 y CD1.</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.8988%; text-align: justify;\">\n<p><strong>3.2</strong> Diseñar la experimentación, la toma de datos y el análisis de fenómenos biológicos y geológicos de modo que permitan responder a preguntas concretas y contrastar una hipótesis planteada.</p>\n<p>Descriptores operativos: <strong>STEM2 y STEM3.</strong><strong></strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.8988%; text-align: justify;\">\n<p><strong>3.3</strong> Realizar experimentos y tomar datos cuantitativos o cualitativos sobre fenómenos biológicos y geológicos utilizando los instrumentos, herramientas o técnicas adecuadas con corrección.</p>\n<p>Descriptores operativos: <strong>STEM3 y CD2.</strong><strong></strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.8988%; text-align: justify;\">\n<p><strong>3.4</strong> Interpretar los resultados obtenidos en un proyecto de investigación utilizando, cuando sea necesario herramientas matemáticas y tecnológicas.</p>\n<p>Descriptores operativos: <strong>STEM4, CD2 y CE3.</strong><strong></strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.8988%; text-align: justify;\">\n<p><strong>4.Utilizar el razonamiento y el pensamiento computacional, analizando críticamente las respuestas y soluciones y reformulando el procedimiento si fuera necesario, para resolver problemas o dar explicación a procesos de la vida cotidiana relacionados con la biología y la geología.</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.8988%; text-align: justify;\">\n<p><strong>4.1</strong> Resolver problemas, crear modelos o dar explicación a procesos biológicos o geológicos utilizando conocimientos, datos, e información proporcionados por el profesorado, el razonamiento lógico, el pensamiento computacional o los recursos digitales.</p>\n<p>Descriptores operativos: <strong>STEM1, STEM2, CD3, CD5, CE1, CE3 y CCEC4.</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.8988%; text-align: justify;\">\n<p><strong>5. Analizar los efectos de determinadas acciones sobre el medio ambiente y la salud, basándose en los fundamentos de las ciencias biológicas y de la Tierra, para promover y adoptar hábitos que eviten o minimicen los impactos ambientales negativos, sean compatibles con un desarrollo sostenible y permitan mantener y mejorar la salud individual y colectiva.</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.8988%; text-align: justify;\">\n<p><strong>5.1</strong> Relacionar con fundamentos científicos la preservación de la biodiversidad, la conservación del medio ambiente, la protección de los seres vivos del entorno, el desarrollo sostenible y la calidad de vida.</p>\n<p>Descriptores operativos: <strong>STEM5, CD4, CC4 y CE1.</strong><strong></strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.8988%; text-align: justify;\">\n<p><strong>5.2</strong> Proponer y adoptar hábitos sostenibles analizando de una manera crítica las actividades propias y ajenas a partir de los propios razonamientos, de los conocimientos adquiridos y de la información disponible.</p>\n<p>Descriptores operativos: <strong>CCL2, STEM2, STEM5, CD4, CPSAA1, CC3, CE1 y CCEC1.</strong><strong></strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.8988%; text-align: justify;\">\n<p><strong>6. Analizar los elementos de un paisaje concreto valorándolo como patrimonio natural y utilizando conocimientos sobre geología y ciencias de la Tierra para explicar su historia geológica, proponer acciones encaminadas a su protección e identificar posibles riesgos naturales.</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.8988%; text-align: justify;\">\n<p><strong>6.1</strong> Valorar la importancia del paisaje como patrimonio natural analizando la fragilidad de los elementos que lo componen.</p>\n<p>Descriptores operativos: <strong>STEM5 y CCEC1.</strong><strong></strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.8988%; text-align: justify;\">\n<p><strong>6.2</strong> Interpretar el paisaje analizando sus elementos y reflexionando sobre el impacto ambiental y los riesgos naturales derivados de determinadas acciones humanas.</p>\n<p>Descriptores operativos: <strong>CCL2, STEM4, STEM5, CD1, CD4, CPSAA2, CC4 y CE1.</strong><strong></strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.8988%; text-align: justify;\">\n<p><strong>6.3</strong> Reflexionar sobre los riesgos naturales mediante el análisis de los elementos de un paisaje, valorando la importancia de mantener un compromiso con el medio ambiente para el desarrollo seguro, sostenible e igualitario de la humanidad.</p>\n<p>Descriptores operativos: <strong>CCL2, STEM1, STEM2, STEM4, CD4, CC4, CE1 y CCEC1.</strong><strong></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mndntcud-0vki6n9u4</odePageId>
+      <odePageId>page-mndw3o6w-arzil4joc</odePageId>
       <odeBlockId>block-1774905958846-3yrgwnzqp</odeBlockId>
       <blockName>Saberes Básicos</blockName>
       <iconName>book</iconName>
@@ -832,7 +855,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndntcud-0vki6n9u4</odePageId>
+          <odePageId>page-mndw3o6w-arzil4joc</odePageId>
           <odeBlockId>block-1774905958846-3yrgwnzqp</odeBlockId>
           <odeIdeviceId>idevice-1774905958846-pjb4d7dlw</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -864,6 +887,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1774905958846-pjb4d7dlw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Los <strong>saberes básicos</strong> asociados a la situación de aprendizaje son parte del Bloque A. Proyecto científico, Bloque B. Geología y Bloque E. Ecología y sostenibilidad de la materia de <strong>Biología y Geología</strong>.</p>\n<p style=\"text-align: justify;\"><strong>Bloque A. Proyecto científico</strong></p>\n<ul style=\"list-style-type: circle; text-align: justify;\">\n<li>Hipótesis, preguntas y conjeturas: planteamiento con perspectiva científica.</li>\n<li>Estrategias para la búsqueda de información, la colaboración y la comunicación de procesos, resultados o ideas científicas: herramientas digitales y formatos de uso frecuente en ciencia (presentación, gráfica, vídeo, poster, informe, etc.).</li>\n<li>Fuentes fidedignas de información científica: reconocimiento y utilización.</li>\n<li>Métodos de observación y de toma de datos de fenómenos naturales.</li>\n<li>La respuesta a cuestiones científicas mediante la experimentación y el trabajo de campo: utilización de los instrumentos y espacios necesarios (laboratorio, aulas, entorno, etc.) de forma adecuada.</li>\n<li>Modelado como método de representación y compresión de procesos o elementos de la naturaleza.</li>\n<li>La labor científica y las personas dedicadas a la ciencia: contribución a las ciencias biológicas y geológicas e importancia social. El papel de la mujer en la ciencia.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Bloque B. Geología</strong></p>\n<ul style=\"list-style-type: circle; text-align: justify;\">\n<li>La estructura básica de la geosfera y la relación entre las manifestaciones de la energía interna y el relieve.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Bloque E. Ecología y sostenibilidad</strong></p>\n<ul style=\"list-style-type: circle;\">\n<li style=\"text-align: justify;\">Los ecosistemas del entorno, sus componentes bióticos y abióticos y los tipos de relaciones intraespecíficas e interespecíficas.</li>\n<li style=\"text-align: justify;\">La importancia de la conservación de los ecosistemas, la biodiversidad y la implantación de un modelo de desarrollo sostenible.</li>\n<li style=\"text-align: justify;\">Las interacciones entre atmósfera, hidrosfera, geosfera y biosfera, su papel en la edafogénesis y en el modelado del relieve y su importancia para la vida. Las funciones del suelo.</li>\n<li style=\"text-align: justify;\">Las causas del cambio climático y sus consecuencias sobre los ecosistemas.</li>\n<li style=\"text-align: justify;\">La importancia de los hábitos sostenibles (consumo responsable, prevención y gestión de residuos, respecto al medio ambiente, etc.).</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -871,8 +906,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mndntcud-qhc8dy5q8</odePageId>
-  <odeParentPageId>page-mndntcu8-4kncu0ufu</odeParentPageId>
+  <odePageId>page-mndw3o6w-45fyqhcvl</odePageId>
+  <odeParentPageId>page-mndw3o6t-s4bkdbklt</odeParentPageId>
   <pageName>3. Metodologías activas</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -907,7 +942,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mndntcud-qhc8dy5q8</odePageId>
+      <odePageId>page-mndw3o6w-45fyqhcvl</odePageId>
       <odeBlockId>block-1774908464540-cm1jvnlnt</odeBlockId>
       <blockName>Descripción</blockName>
       <iconName>guide</iconName>
@@ -936,7 +971,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndntcud-qhc8dy5q8</odePageId>
+          <odePageId>page-mndw3o6w-45fyqhcvl</odePageId>
           <odeBlockId>block-1774908464540-cm1jvnlnt</odeBlockId>
           <odeIdeviceId>idevice-1774908464538-1q7wtac7p</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -946,7 +981,7 @@
 <p><strong>Aprendizaje cooperativo</strong></p>
 <p style="text-align: justify;">Esta metodología activa prioriza el trabajo en equipo y la colaboración entre el alumnado para alcanzar metas compartidas. Refuerza la pertenencia en el grupo y el apoyo entre iguales. </p>
 <p style="text-align: justify;">A lo largo de la situación de aprendizaje se trabajará repetidas veces este tipo de metodología. Una de ellas será en el programa de podcast en el que se ensalza el papel de la mujer en la ciencia, también en la investigación experimental así como en la construcción de la maqueta de un volcán. </p>
-<p><img src="https://tse4.mm.bing.net/th/id/OIP.D64iDzHwhrSnWPxmiSDjsAHaHa?w=1080&amp;h=1080&amp;rs=1&amp;pid=ImgDetMain&amp;o=7&amp;rm=3" alt="Cisadde" class="" aria-label="Cisadde" role="button" data-bm="4" width="240" height="240" style="display: block; margin-left: auto; margin-right: auto;" tabindex="0" /></p>
+<p><img src="https://tse4.mm.bing.net/th/id/OIP.D64iDzHwhrSnWPxmiSDjsAHaHa?w=1080&h=1080&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Cisadde" class="" aria-label="Cisadde" role="button" data-bm="4" width="240" height="240" style="display: block; margin-left: auto; margin-right: auto;" tabindex="0" /></p>
 <p><strong>Metodología basado en el juego</strong></p>
 <p style="text-align: justify;">Este tipo de aprendizaje usa como herramientas educativas los juegos y las actividades lúdicas haciéndolo más divertido, atractivo y motivador, además fomentan una competencia sana y el espíritu del trabajo en equipo.</p>
 <p style="text-align: justify;">Entre los juegos y actividades lúdicas que se van a realizar son un puzle de las placas litosféricas, talleres construcción de una maqueta de un volcán, juegos de memoria, tabú modelado del relieve, pasapalabra y juego de relacionar.</p>
@@ -957,9 +992,21 @@
 <p><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhu777NJYGlchziYFSl0vew6U6YeOFhJDld-bBiN892PG4WVMJ8ZXRpqwpX5cyn_fUHrcF2t1-TEbieekAeePPk6TtWg0dabhxPENUKDDrdVaGoA_w6AUEKBhh2TJlC-Jaz0TSWj-XEa7zYNd4zt8e0iXGf8jGLz1b5vzr5zRWNxZjFqwvfhzX_YCDqgg" alt="Ilustración de Ramadán Dua Aislado Dibujo Animado Vector Ilustración y ..." class="" aria-label="Ilustración de Ramadán Dua Aislado Dibujo Animado Vector Ilustración y ..." role="button" data-bm="10" width="244" height="244" style="display: block; margin-left: auto; margin-right: auto;" tabindex="0" /></p>
 <p style="text-align: justify;">Toda la metodología tiene en cuenta el <strong>Diseño Universal de Aprendizaje (DUA)</strong> formulado en torno a sus tres principios, que proporciona un marco teórico-práctico basado en la educación inclusiva, la cual se entiende como “un proceso que permite abordar y responder a la diversidad de las necesidades de todos los educandos a través de una mayor participación en el aprendizaje, las actividades culturales, y comunitarias y reducir la exclusión dentro y fuera del sistema educativo” según la UNESCO, 2008.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774908464538-1q7wtac7p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Las estrategias metodológicas permitirán crear un ambiente de aprendizaje participativo y significativo. </p>\n<p style=\"text-align: justify;\">Dentro de las diferentes metodologías que se van a utilizar a lo largo de esta SdA se encuentran las metodologías educativas tradicionales como la enseñanza directa, prácticas de laboratorio y salidas de campo; y las metodologías de enseñanza innovadoras, entre las que se encuentran los aprendizajes cooperativos, aprendizaje basado en el juego y aprendizaje visual.</p>\n<p><strong>Aprendizaje cooperativo</strong></p>\n<p style=\"text-align: justify;\">Esta metodología activa prioriza el trabajo en equipo y la colaboración entre el alumnado para alcanzar metas compartidas. Refuerza la pertenencia en el grupo y el apoyo entre iguales. </p>\n<p style=\"text-align: justify;\">A lo largo de la situación de aprendizaje se trabajará repetidas veces este tipo de metodología. Una de ellas será en el programa de podcast en el que se ensalza el papel de la mujer en la ciencia, también en la investigación experimental así como en la construcción de la maqueta de un volcán. </p>\n<p><img src=\"https://tse4.mm.bing.net/th/id/OIP.D64iDzHwhrSnWPxmiSDjsAHaHa?w=1080&amp;h=1080&amp;rs=1&amp;pid=ImgDetMain&amp;o=7&amp;rm=3\" alt=\"Cisadde\" class=\"\" aria-label=\"Cisadde\" role=\"button\" data-bm=\"4\" width=\"240\" height=\"240\" style=\"display: block; margin-left: auto; margin-right: auto;\" tabindex=\"0\" /></p>\n<p><strong>Metodología basado en el juego</strong></p>\n<p style=\"text-align: justify;\">Este tipo de aprendizaje usa como herramientas educativas los juegos y las actividades lúdicas haciéndolo más divertido, atractivo y motivador, además fomentan una competencia sana y el espíritu del trabajo en equipo.</p>\n<p style=\"text-align: justify;\">Entre los juegos y actividades lúdicas que se van a realizar son un puzle de las placas litosféricas, talleres construcción de una maqueta de un volcán, juegos de memoria, tabú modelado del relieve, pasapalabra y juego de relacionar.</p>\n<p><img src=\"https://img.freepik.com/vector-premium/jugando-juegos-mesa-ilustracion-vectorial-dibujos-animados-aislados_107173-19038.jpg?w=2000\" alt=\"Jugando juegos de mesa ilustración vectorial de dibujos animados ...\" class=\"\" aria-label=\"Jugando juegos de mesa ilustración vectorial de dibujos animados ...\" role=\"button\" data-bm=\"4\" width=\"306\" height=\"306\" style=\"display: block; margin-left: auto; margin-right: auto;\" tabindex=\"0\" /></p>\n<p><strong>Aprendizaje visual</strong></p>\n<p style=\"text-align: justify;\">El aprendizaje visual utiliza elementos visuales variados en la enseñanza como imágenes, vídeos u otros recursos con el fin de mejorar la retención y facilitar la comprensión del alumnado.</p>\n<p style=\"text-align: justify;\">Los distintos recursos que se emplearán para el aprendizaje en el aula serán la presentación en Power Point, en la cual, pesará las imágenes frente al poco texto, se incluirán enlaces con videos explicativos. El texto que se incluye será de lectura fácil, gran tamaño, colores variados y tipología específica “OpenDyslexic” o “ComicSans”. Además, se les facilitará a los alumnos fichas con imágenes distintas a las del libro de texto.</p>\n<p><img src=\"https://blogger.googleusercontent.com/img/a/AVvXsEhu777NJYGlchziYFSl0vew6U6YeOFhJDld-bBiN892PG4WVMJ8ZXRpqwpX5cyn_fUHrcF2t1-TEbieekAeePPk6TtWg0dabhxPENUKDDrdVaGoA_w6AUEKBhh2TJlC-Jaz0TSWj-XEa7zYNd4zt8e0iXGf8jGLz1b5vzr5zRWNxZjFqwvfhzX_YCDqgg\" alt=\"Ilustración de Ramadán Dua Aislado Dibujo Animado Vector Ilustración y ...\" class=\"\" aria-label=\"Ilustración de Ramadán Dua Aislado Dibujo Animado Vector Ilustración y ...\" role=\"button\" data-bm=\"10\" width=\"244\" height=\"244\" style=\"display: block; margin-left: auto; margin-right: auto;\" tabindex=\"0\" /></p>\n<p style=\"text-align: justify;\">Toda la metodología tiene en cuenta el <strong>Diseño Universal de Aprendizaje (DUA)</strong> formulado en torno a sus tres principios, que proporciona un marco teórico-práctico basado en la educación inclusiva, la cual se entiende como “un proceso que permite abordar y responder a la diversidad de las necesidades de todos los educandos a través de una mayor participación en el aprendizaje, las actividades culturales, y comunitarias y reducir la exclusión dentro y fuera del sistema educativo” según la UNESCO, 2008.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774908464538-1q7wtac7p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Las estrategias metodológicas permitirán crear un ambiente de aprendizaje participativo y significativo. </p>\n<p style=\"text-align: justify;\">Dentro de las diferentes metodologías que se van a utilizar a lo largo de esta SdA se encuentran las metodologías educativas tradicionales como la enseñanza directa, prácticas de laboratorio y salidas de campo; y las metodologías de enseñanza innovadoras, entre las que se encuentran los aprendizajes cooperativos, aprendizaje basado en el juego y aprendizaje visual.</p>\n<p><strong>Aprendizaje cooperativo</strong></p>\n<p style=\"text-align: justify;\">Esta metodología activa prioriza el trabajo en equipo y la colaboración entre el alumnado para alcanzar metas compartidas. Refuerza la pertenencia en el grupo y el apoyo entre iguales. </p>\n<p style=\"text-align: justify;\">A lo largo de la situación de aprendizaje se trabajará repetidas veces este tipo de metodología. Una de ellas será en el programa de podcast en el que se ensalza el papel de la mujer en la ciencia, también en la investigación experimental así como en la construcción de la maqueta de un volcán. </p>\n<p><img src=\"https://tse4.mm.bing.net/th/id/OIP.D64iDzHwhrSnWPxmiSDjsAHaHa?w=1080&h=1080&rs=1&pid=ImgDetMain&o=7&rm=3\" alt=\"Cisadde\" class=\"\" aria-label=\"Cisadde\" role=\"button\" data-bm=\"4\" width=\"240\" height=\"240\" style=\"display: block; margin-left: auto; margin-right: auto;\" tabindex=\"0\" /></p>\n<p><strong>Metodología basado en el juego</strong></p>\n<p style=\"text-align: justify;\">Este tipo de aprendizaje usa como herramientas educativas los juegos y las actividades lúdicas haciéndolo más divertido, atractivo y motivador, además fomentan una competencia sana y el espíritu del trabajo en equipo.</p>\n<p style=\"text-align: justify;\">Entre los juegos y actividades lúdicas que se van a realizar son un puzle de las placas litosféricas, talleres construcción de una maqueta de un volcán, juegos de memoria, tabú modelado del relieve, pasapalabra y juego de relacionar.</p>\n<p><img src=\"https://img.freepik.com/vector-premium/jugando-juegos-mesa-ilustracion-vectorial-dibujos-animados-aislados_107173-19038.jpg?w=2000\" alt=\"Jugando juegos de mesa ilustración vectorial de dibujos animados ...\" class=\"\" aria-label=\"Jugando juegos de mesa ilustración vectorial de dibujos animados ...\" role=\"button\" data-bm=\"4\" width=\"306\" height=\"306\" style=\"display: block; margin-left: auto; margin-right: auto;\" tabindex=\"0\" /></p>\n<p><strong>Aprendizaje visual</strong></p>\n<p style=\"text-align: justify;\">El aprendizaje visual utiliza elementos visuales variados en la enseñanza como imágenes, vídeos u otros recursos con el fin de mejorar la retención y facilitar la comprensión del alumnado.</p>\n<p style=\"text-align: justify;\">Los distintos recursos que se emplearán para el aprendizaje en el aula serán la presentación en Power Point, en la cual, pesará las imágenes frente al poco texto, se incluirán enlaces con videos explicativos. El texto que se incluye será de lectura fácil, gran tamaño, colores variados y tipología específica “OpenDyslexic” o “ComicSans”. Además, se les facilitará a los alumnos fichas con imágenes distintas a las del libro de texto.</p>\n<p><img src=\"https://blogger.googleusercontent.com/img/a/AVvXsEhu777NJYGlchziYFSl0vew6U6YeOFhJDld-bBiN892PG4WVMJ8ZXRpqwpX5cyn_fUHrcF2t1-TEbieekAeePPk6TtWg0dabhxPENUKDDrdVaGoA_w6AUEKBhh2TJlC-Jaz0TSWj-XEa7zYNd4zt8e0iXGf8jGLz1b5vzr5zRWNxZjFqwvfhzX_YCDqgg\" alt=\"Ilustración de Ramadán Dua Aislado Dibujo Animado Vector Ilustración y ...\" class=\"\" aria-label=\"Ilustración de Ramadán Dua Aislado Dibujo Animado Vector Ilustración y ...\" role=\"button\" data-bm=\"10\" width=\"244\" height=\"244\" style=\"display: block; margin-left: auto; margin-right: auto;\" tabindex=\"0\" /></p>\n<p style=\"text-align: justify;\">Toda la metodología tiene en cuenta el <strong>Diseño Universal de Aprendizaje (DUA)</strong> formulado en torno a sus tres principios, que proporciona un marco teórico-práctico basado en la educación inclusiva, la cual se entiende como “un proceso que permite abordar y responder a la diversidad de las necesidades de todos los educandos a través de una mayor participación en el aprendizaje, las actividades culturales, y comunitarias y reducir la exclusión dentro y fuera del sistema educativo” según la UNESCO, 2008.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -967,8 +1014,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mndntcud-7bj1txngc</odePageId>
-  <odeParentPageId>page-mndntcu8-4kncu0ufu</odeParentPageId>
+  <odePageId>page-mndw3o6x-zrksekfm6</odePageId>
+  <odeParentPageId>page-mndw3o6t-s4bkdbklt</odeParentPageId>
   <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1003,7 +1050,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mndntcud-7bj1txngc</odePageId>
+      <odePageId>page-mndw3o6x-zrksekfm6</odePageId>
       <odeBlockId>block-1774875009617-ddx154dqa</odeBlockId>
       <blockName></blockName>
       <iconName>competencies</iconName>
@@ -1032,7 +1079,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndntcud-7bj1txngc</odePageId>
+          <odePageId>page-mndw3o6x-zrksekfm6</odePageId>
           <odeBlockId>block-1774875009617-ddx154dqa</odeBlockId>
           <odeIdeviceId>idevice-1774875009616-5banzm7zs</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1066,8 +1113,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mndntcud-qnlwn3gn4</odePageId>
-  <odeParentPageId>page-mndntcu8-4kncu0ufu</odeParentPageId>
+  <odePageId>page-mndw3o6x-0jq3ls9l1</odePageId>
+  <odeParentPageId>page-mndw3o6t-s4bkdbklt</odeParentPageId>
   <pageName>5. Actividades complementarias y extraescolares</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1102,7 +1149,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mndntcud-qnlwn3gn4</odePageId>
+      <odePageId>page-mndw3o6x-0jq3ls9l1</odePageId>
       <odeBlockId>block-1774874625031-7iedp5bmw</odeBlockId>
       <blockName>Actividad complementaria</blockName>
       <iconName>nature</iconName>
@@ -1131,7 +1178,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndntcud-qnlwn3gn4</odePageId>
+          <odePageId>page-mndw3o6x-0jq3ls9l1</odePageId>
           <odeBlockId>block-1774874625031-7iedp5bmw</odeBlockId>
           <odeIdeviceId>idevice-1774874625029-g3c621bhv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1161,11 +1208,31 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1774912704290-ansyy18ms</odePageId>
+  <odePageId>page-mndw3o6x-2j1j2b2fz</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>6. Atribución y fichero descargable</pageName>
-  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>6. Atribución y fichero descargable</value>
@@ -1177,7 +1244,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774912704290-ansyy18ms</odePageId>
+      <odePageId>page-mndw3o6x-2j1j2b2fz</odePageId>
       <odeBlockId>block-1774912746138-b967b9ejk</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName>agreement</iconName>
@@ -1206,7 +1273,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774912704290-ansyy18ms</odePageId>
+          <odePageId>page-mndw3o6x-2j1j2b2fz</odePageId>
           <odeBlockId>block-1774912746138-b967b9ejk</odeBlockId>
           <odeIdeviceId>idevice-1774912746137-5bhdn96ta</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
@@ -1234,6 +1301,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
